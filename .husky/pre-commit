@@ -25,7 +25,7 @@ npm run check-types ||
 )
 
 # If everything passes... Now we can commit
-echo 'Prettier and Eslint Passed! Generating Build now.'
+echo '✅✅✅✅  Prettier and Eslint Passed! Generating Build now.  ✅✅✅✅'
 
 npm run build ||
 (
